@@ -1,0 +1,23 @@
+{
+  "name": "echat",
+  "version": "1.0.0",
+  "description": "echat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william807803/echat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william807803/echat/issues"
+  },
+  "homepage": "https://github.com/william807803/echat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
